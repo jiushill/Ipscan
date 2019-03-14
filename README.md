@@ -8,4 +8,4 @@
 
 测试图：
 
-![](https://s2.ax1x.com/2019/03/14/AALA4e.gif)
+https://imgchr.com/i/AALA4e
