@@ -1,0 +1,5 @@
+[scan]
+port=80,443
+thread=100
+timeout=1
+shodan_key=WoJzJaVGlnwqtPTGf9iwyigjBmrjp96J
