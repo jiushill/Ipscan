@@ -1,6 +1,6 @@
 # Ipscan
 
-![](http://img1.imgtn.bdimg.com/it/u=2616936472,428786847&fm=26&gp=0.jpg)
+![](https://s2.ax1x.com/2019/03/14/AAL34g.jpg)
 
 爬的网站：http://ip.bczs.net/countrylist
 
